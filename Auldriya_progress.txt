@@ -1,5 +1,11 @@
-Day-1 :06|2|25
+Day-1     : 06|2|25
 
-learn
-implement
-challenges
+learn     : basic html tags
+implement :
+challenges:
+
+Day-2     :07|2|25
+
+learn      :z-index tag,flex-direction
+implement  :
+challenges :
